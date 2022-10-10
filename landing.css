@@ -1,0 +1,26 @@
+.landingPage{
+    display: flex;
+    flex-direction: row;
+}
+ .landing-image img{
+    object-fit: cover;
+    height: 500px;
+    width:100%;
+}
+.actions{
+    margin-right: 20%;
+    font-weight: bold;
+    font-size: 30px;
+    color: crimson;
+    align-self: center;
+    margin-left: 30px;
+}
+.button{
+    border-radius: 5px;
+    border-color: crimson;
+    background-color: white;
+    padding: 5px;
+    width: 100px;
+}
+
+

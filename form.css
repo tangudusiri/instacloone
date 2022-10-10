@@ -1,0 +1,28 @@
+#form{
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    margin-top: 30px;
+    background-color: pink;
+    border-radius: 5%;
+}
+.input-1 input{
+   width: 300px;
+   margin: 35px 5px 5px 5px;
+}
+.input-2 > input{
+  margin: 5px 5px 5px 10px;
+
+}
+.input-3{
+    display: block;
+    width: 350px;
+    margin: 10px;
+}
+.btn{
+    margin: auto;
+    width: 70px;
+}
+.btn button{
+    background-color: cornflowerblue;
+}
